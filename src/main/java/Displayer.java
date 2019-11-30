@@ -1,27 +1,21 @@
-import java.io.FileInputStream;
-import java.io.IOException;
-import java.io.ObjectInputStream;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
+import javafx.geometry.Insets;
+import javafx.geometry.Pos;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.control.ComboBox;
 import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
-import javafx.scene.layout.VBox;
-import javafx.stage.Stage;
-import javafx.geometry.Insets;
-import javafx.geometry.Pos;
 import javafx.scene.image.Image;
-import javafx.scene.layout.Background;
-import javafx.scene.layout.BackgroundImage;
-import javafx.scene.layout.BackgroundPosition;
-import javafx.scene.layout.BackgroundRepeat;
-import javafx.scene.layout.BackgroundSize;
-import javafx.scene.layout.GridPane;
-import javafx.scene.layout.StackPane;
+import javafx.scene.layout.*;
+import javafx.stage.Stage;
+
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.io.ObjectInputStream;
 
 /**
  * 
@@ -68,8 +62,11 @@ public class Displayer {
 	public void Main_Menu() {
     	
 		Button Bplay = new Button("Játék");
+		Bplay.setId("Bplay");
 		Button Bload = new Button("Betöltés");
+		Bload.setId("Bload");
     	Button Bexit = new Button("Kilépés");
+		Bexit.setId("Bexit");
 		
 		Bplay.setOnAction(new EventHandler<ActionEvent>(){
             public void handle(ActionEvent t){
@@ -171,13 +168,17 @@ public class Displayer {
 	public Scene Setup_Game() {
 		ObservableList<String> difficulty = FXCollections.observableArrayList("Könnyű","Közepes","Nehéz");
 		ComboBox<String> diff_ch = new ComboBox<String>(difficulty);
+		diff_ch.setId("diff");
 		
 		Label label1 = new Label("Név:");
 		TextField textField = new TextField ();
+		textField.setId("textField");
 		textField.setMaxWidth(200);
 		
 		Button Bback = new Button("Vissza");
 		Button Bstart = new Button("Játék");
+		Bstart.setId("Bstart");
+		Bback.setId("Bback");
 		
 		Bback.setOnAction((event) -> {
 			Main_Menu();

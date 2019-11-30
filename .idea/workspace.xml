@@ -1,16 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a4090a3-89ec-4b9b-9142-b524a78cf779" name="Default Changelist" comment="" />
+    <list default="true" id="1a4090a3-89ec-4b9b-9142-b524a78cf779" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Hofi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DisplayerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Displayer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Displayer$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Displayer$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Displayer$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Displayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Displayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Environment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Environment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/farm_save" beforeDir="false" afterPath="$PROJECT_DIR$/farm_save" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Displayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Displayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Environment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Environment.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -20,6 +74,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1ULXRFMUuszTXoN3U206xonesvj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,8 +82,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -39,15 +97,69 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="sshConsole" />
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle --refresh" />
+      <command value="gradle refresh" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.Tests in 'Farm_gradle.test'">
     <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Farm_gradle.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="DisplayerTest" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;DisplayerTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Farm_gradle [refresh]" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="refresh" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
     <configuration name="Farm_gradle" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
@@ -66,6 +178,26 @@
       <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="Tests in 'Farm_gradle.test'" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests *" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -78,6 +210,10 @@
         </serviceView>
       </list>
     </option>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -92,7 +228,9 @@
       <workItem from="1575136843182" duration="119000" />
       <workItem from="1575136983703" duration="843000" />
       <workItem from="1575137861839" duration="2828000" />
-      <workItem from="1575140751007" duration="1616000" />
+      <workItem from="1575140751007" duration="2010000" />
+      <workItem from="1575142903027" duration="177000" />
+      <workItem from="1575143112203" duration="7527000" />
     </task>
     <servers />
   </component>
@@ -100,41 +238,53 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="421" y="233" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1575143079616">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="421" y="233" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1366.728@0.0.1366.728" timestamp="1575143079616" />
     <state x="363" y="91" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575136955552">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="363" y="91" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1575136955552" />
-    <state x="484" y="118" key="FileChooserDialogImpl" timestamp="1575141267167">
+    <state x="381" y="187" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1575144240337">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="484" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1575141267167" />
-    <state width="1158" height="179" key="GridCell.Tab.0.bottom" timestamp="1575142411851">
+    <state x="381" y="187" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1575144240337" />
+    <state x="484" y="118" key="FileChooserDialogImpl" timestamp="1575143015299">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1158" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1575142411851" />
-    <state width="1158" height="179" key="GridCell.Tab.0.center" timestamp="1575142411851">
+    <state x="484" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1575143015299" />
+    <state width="576" height="158" key="GridCell.Tab.0.bottom" timestamp="1575154404932">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1158" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1575142411851" />
-    <state width="1158" height="179" key="GridCell.Tab.0.left" timestamp="1575142411851">
+    <state width="576" height="158" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1575154404932" />
+    <state width="576" height="158" key="GridCell.Tab.0.center" timestamp="1575154404932">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1158" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1575142411851" />
-    <state width="1158" height="179" key="GridCell.Tab.0.right" timestamp="1575142411851">
+    <state width="576" height="158" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1575154404932" />
+    <state width="576" height="158" key="GridCell.Tab.0.left" timestamp="1575154404932">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1158" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1575142411851" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1575142126404">
+    <state width="576" height="158" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1575154404932" />
+    <state width="576" height="158" key="GridCell.Tab.0.right" timestamp="1575154404932">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1575142126404" />
-    <state x="384" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1575140751700">
+    <state width="576" height="158" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1575154404932" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1575150974431">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="384" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1575140751700" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1575141124705">
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1575150974431" />
+    <state x="384" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1575143113533">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1575141124705" />
+    <state x="384" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1575143113533" />
+    <state x="447" y="70" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1575143715214">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="447" y="70" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1575143715214" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1575144683798">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1575144683798" />
   </component>
 </project>

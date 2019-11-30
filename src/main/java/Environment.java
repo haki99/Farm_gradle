@@ -230,7 +230,7 @@ public class Environment {
 		Image soil_bottom = new Image(getClass().getResource("Pics/Environment/Garden/soil_bottom.png").toExternalForm());
 		Image soil_left = new Image(getClass().getResource("Pics/Environment/Garden/soil_left.png").toExternalForm());
 		Image soil_right = new Image(getClass().getResource("Pics/Environment/Garden/soil_right.png").toExternalForm());
-		Image soil = new Image(getClass().getResource("Pics/Environment/Garden/soil.png").toExternalForm());
+		Image soil = new Image(getClass().getResource("Pics/Environment/Garden/soil_line.png").toExternalForm());
 		Image hole = new Image(getClass().getResource("Pics/Environment/Garden/hole.png").toExternalForm());
 		
 		//Bal felső blokk
