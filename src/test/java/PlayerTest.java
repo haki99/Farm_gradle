@@ -1,10 +1,21 @@
-import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
+
 import java.io.File;
 
+import static org.junit.jupiter.api.Assertions.fail;
+
+/**
+ *
+ * @author Hofi
+ * @version 1.0
+ * @since   2019-11-06
+ */
 class PlayerTest {
 
+	/**
+	 * Tests the initialize of the array. (If not empty then throws fail)
+	 */
 	@Test
 	@DisplayName("Player null test")
 	void nulltest() {
@@ -19,7 +30,10 @@ class PlayerTest {
 			}
 		}
 	}
-	
+
+	/**
+	 * Tests that the players garden is plantable
+	 */
 	@Test
 	@DisplayName("Player test with plants - planting")
 	void playerplantingtest() {
@@ -39,7 +53,10 @@ class PlayerTest {
 			}
 		}
 	}
-	
+
+	/**
+	 * Tests the plants growing
+	 */
 	@Test
 	@DisplayName("Player test with plants - growing")
 	void playergrowingtest() {
@@ -69,7 +86,10 @@ class PlayerTest {
 			}
 		}
 	}
-	
+
+	/**
+	 * Tests the serialization of the player class
+	 */
 	@Test
 	@DisplayName("Player save test")
 	void playersavetest() {

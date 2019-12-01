@@ -2,30 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a4090a3-89ec-4b9b-9142-b524a78cf779" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Hofi.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DisplayerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Farm_gradle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/EnvironmentTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Displayer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Displayer$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Displayer$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Displayer$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Displayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Displayer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Environment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Environment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/farm_save" beforeDir="false" afterPath="$PROJECT_DIR$/farm_save" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Displayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Displayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Environment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Environment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/DisplayerTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/DisplayerTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/PlantTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/PlantTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/PlayerTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/PlayerTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-DisplayerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-DisplayerTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-PlantTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-PlantTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-PlayerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-PlayerTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ConfirmBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ConfirmBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DisplayerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DisplayerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PlantTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PlantTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PlayerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PlayerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,18 +53,26 @@
         </task>
         <projects_view>
           <tree_state>
-            <expand />
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Farm_gradle" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
             <select />
           </tree_state>
         </projects_view>
       </state>
     </system>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Farm_gradle" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -98,7 +111,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="sshConsole" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -128,6 +141,46 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" value="--tests &quot;DisplayerTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="DisplayerTest.mainmenu_quit_test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;DisplayerTest.mainmenu_quit_test&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="EnvironmentTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;EnvironmentTest&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -198,6 +251,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.DisplayerTest.mainmenu_quit_test" />
+        <item itemvalue="Gradle.EnvironmentTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -215,6 +274,9 @@
     <option name="myEncoding" value="UTF-8" />
     <option name="myConnectionType" value="NONE" />
   </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_LAMBDA" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -231,6 +293,12 @@
       <workItem from="1575140751007" duration="2010000" />
       <workItem from="1575142903027" duration="177000" />
       <workItem from="1575143112203" duration="7527000" />
+      <workItem from="1575163790095" duration="208000" />
+      <workItem from="1575164009024" duration="39000" />
+      <workItem from="1575164094406" duration="22000" />
+      <workItem from="1575164130156" duration="589000" />
+      <workItem from="1575164737682" duration="127000" />
+      <workItem from="1575164896298" duration="2189000" />
     </task>
     <servers />
   </component>
@@ -238,50 +306,60 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="233" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1575143079616">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="647" y="346" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1575164114763">
+      <screen x="80" y="0" width="1840" height="1080" />
     </state>
     <state x="421" y="233" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1366.728@0.0.1366.728" timestamp="1575143079616" />
+    <state x="647" y="346" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/80.0.1840.1080/-1280.0.1280.984@80.0.1840.1080" timestamp="1575164114763" />
     <state x="363" y="91" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575136955552">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="363" y="91" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1575136955552" />
-    <state x="381" y="187" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1575144240337">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="550" y="232" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1575166894979">
+      <screen x="80" y="0" width="1840" height="1080" />
     </state>
     <state x="381" y="187" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1575144240337" />
-    <state x="484" y="118" key="FileChooserDialogImpl" timestamp="1575143015299">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="550" y="232" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/80.0.1840.1080/-1280.0.1280.984@80.0.1840.1080" timestamp="1575166894979" />
+    <state x="732" y="175" key="FileChooserDialogImpl" timestamp="1575166893119">
+      <screen x="80" y="0" width="1840" height="1080" />
     </state>
     <state x="484" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1575143015299" />
-    <state width="576" height="158" key="GridCell.Tab.0.bottom" timestamp="1575154404932">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="732" y="175" key="FileChooserDialogImpl/80.0.1840.1080/-1280.0.1280.984@80.0.1840.1080" timestamp="1575166893119" />
+    <state width="1455" height="272" key="GridCell.Tab.0.bottom" timestamp="1575166895023">
+      <screen x="80" y="0" width="1840" height="1080" />
     </state>
     <state width="576" height="158" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1575154404932" />
-    <state width="576" height="158" key="GridCell.Tab.0.center" timestamp="1575154404932">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1455" height="272" key="GridCell.Tab.0.bottom/80.0.1840.1080/-1280.0.1280.984@80.0.1840.1080" timestamp="1575166895023" />
+    <state width="1455" height="272" key="GridCell.Tab.0.center" timestamp="1575166895023">
+      <screen x="80" y="0" width="1840" height="1080" />
     </state>
     <state width="576" height="158" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1575154404932" />
-    <state width="576" height="158" key="GridCell.Tab.0.left" timestamp="1575154404932">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1455" height="272" key="GridCell.Tab.0.center/80.0.1840.1080/-1280.0.1280.984@80.0.1840.1080" timestamp="1575166895023" />
+    <state width="1455" height="272" key="GridCell.Tab.0.left" timestamp="1575166895023">
+      <screen x="80" y="0" width="1840" height="1080" />
     </state>
     <state width="576" height="158" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1575154404932" />
-    <state width="576" height="158" key="GridCell.Tab.0.right" timestamp="1575154404932">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1455" height="272" key="GridCell.Tab.0.left/80.0.1840.1080/-1280.0.1280.984@80.0.1840.1080" timestamp="1575166895023" />
+    <state width="1455" height="272" key="GridCell.Tab.0.right" timestamp="1575166895023">
+      <screen x="80" y="0" width="1840" height="1080" />
     </state>
     <state width="576" height="158" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1575154404932" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1575150974431">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1455" height="272" key="GridCell.Tab.0.right/80.0.1840.1080/-1280.0.1280.984@80.0.1840.1080" timestamp="1575166895023" />
+    <state x="267" y="219" key="SettingsEditor" timestamp="1575164710929">
+      <screen x="80" y="0" width="1840" height="1080" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1575150974431" />
-    <state x="384" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1575143113533">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="267" y="219" key="SettingsEditor/80.0.1840.1080/-1280.0.1280.984@80.0.1840.1080" timestamp="1575164710929" />
+    <state x="597" y="277" key="com.intellij.ide.util.TipDialog" timestamp="1575163792166">
+      <screen x="80" y="0" width="1840" height="1080" />
     </state>
     <state x="384" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1575143113533" />
-    <state x="447" y="70" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1575143715214">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="597" y="277" key="com.intellij.ide.util.TipDialog/80.0.1840.1080/-1280.0.1280.984@80.0.1840.1080" timestamp="1575163792166" />
+    <state x="682" y="104" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1575165087261">
+      <screen x="80" y="0" width="1840" height="1080" />
     </state>
     <state x="447" y="70" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1575143715214" />
+    <state x="682" y="104" key="com.intellij.testIntegration.createTest.CreateTestDialog/80.0.1840.1080/-1280.0.1280.984@80.0.1840.1080" timestamp="1575165087261" />
     <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1575144683798">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

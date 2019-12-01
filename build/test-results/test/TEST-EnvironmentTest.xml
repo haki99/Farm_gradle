@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="EnvironmentTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-01T02:13:49" hostname="HOFI-PC" time="1.811">
+  <properties/>
+  <testcase name="mainmenutest()" classname="EnvironmentTest" time="1.811"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

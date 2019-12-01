@@ -33,7 +33,7 @@ public class Controller {
 
 		GridPane kert = new GridPane();
 		
-		//seg�d m�trix
+		//segéd matrix
 		kert.setGridLinesVisible(false);
 		
 		for (int i = 0; i < 37; i++) {
