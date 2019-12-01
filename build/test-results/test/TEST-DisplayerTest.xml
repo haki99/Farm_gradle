@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="DisplayerTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-12-01T02:13:43" hostname="HOFI-PC" time="5.699">
+<testsuite name="DisplayerTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-12-01T13:29:51" hostname="HOFI-PC" time="6.316">
   <properties/>
-  <testcase name="mainmenu_quit_test()" classname="DisplayerTest" time="2.071"/>
-  <testcase name="setupgame_textfield_test()" classname="DisplayerTest" time="1.445"/>
-  <testcase name="mainmenutosetuptest()" classname="DisplayerTest" time="0.692"/>
-  <testcase name="setupgame_combobox_test()" classname="DisplayerTest" time="1.075"/>
-  <testcase name="mainmenutest()" classname="DisplayerTest" time="0.41"/>
+  <testcase name="mainmenu_quit_test()" classname="DisplayerTest" time="2.59"/>
+  <testcase name="setupgame_textfield_test()" classname="DisplayerTest" time="1.462"/>
+  <testcase name="mainmenutosetuptest()" classname="DisplayerTest" time="0.754"/>
+  <testcase name="setupgame_combobox_test()" classname="DisplayerTest" time="1.092"/>
+  <testcase name="mainmenutest()" classname="DisplayerTest" time="0.416"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

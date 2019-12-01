@@ -283,7 +283,10 @@ public class Environment {
 			case "paradicsom2": url = "Pics/Environment/Garden/Plants/paradicsom2.png"; break;
 			case "paradicsom3": url = "Pics/Environment/Garden/Plants/paradicsom3.png"; break;
 			case "paradicsom4": url = "Pics/Environment/Garden/Plants/paradicsom4.png"; break;
-			//extend here
+			case "kukorica1": url = "Pics/Environment/Garden/Plants/kukorica1.png"; break;
+			case "kukorica2": url = "Pics/Environment/Garden/Plants/kukorica2.png"; break;
+			case "kukorica3": url = "Pics/Environment/Garden/Plants/kukorica3.png"; break;
+			case "kukorica4": url = "Pics/Environment/Garden/Plants/kukorica4.png"; break;
 			default: break;
 		}
 		

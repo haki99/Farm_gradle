@@ -1,9 +1,7 @@
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.ObjectOutputStream;
-import java.io.Serializable;
-import java.util.ArrayList;
 import javafx.stage.Stage;
+
+import java.io.*;
+import java.util.ArrayList;
 
 /**
  * 
@@ -20,12 +18,12 @@ public class Player implements Serializable {
 	private int a;
 	private int b;
 	
-	/**
+	/**Sets the datas of the player
 	 * 
-	 * @param n
-	 * @param d
-	 * @param x
-	 * @param y
+	 * @param n name of the player
+	 * @param d the chosen difficulty
+	 * @param x the size of the garden
+	 * @param y the size of the garden
 	 */
 	public void set_data(String n, int d, int x, int y) {
 		name = n;
@@ -42,52 +40,52 @@ public class Player implements Serializable {
 		}
 	}
 	
-	/**
+	/**Returns the chosen difficulty
 	 * 
-	 * @return
+	 * @return the chosen difficulty
 	 */
 	public int getdiff() {
 		return diff;
 	}
 	
-	/**
+	/**Returns the player's name
 	 * 
-	 * @return
+	 * @return the player's name
 	 */
 	public String getname() {
 		return name;
 	}
 	
-	/**
+	/**gets the plant from the given cell
 	 * 
-	 * @param i
-	 * @param j
-	 * @return
+	 * @param i coordinate of the cell
+	 * @param j coordinate of the cell
+	 * @return returns the plant
 	 */
 	public Plant get_plant(int i, int j) {
 		return garden_matrix.get(i).get(j);
 	}
 	
-	/**
+	/**Removes the plant from the given position
 	 * 
-	 * @param i
-	 * @param j
+	 * @param i the position fo the plant
+	 * @param j the position fo the plant
 	 */
 	public void remove_plant(int i, int j) {
 		garden_matrix.get(i).set(j, null);
 	}
 	
-	/**
+	/**Adds a plant to the given cell
 	 * 
-	 * @param p
-	 * @param i
-	 * @param j
+	 * @param p the plant
+	 * @param i the position
+	 * @param j the position
 	 */
 	public void add_plant(Plant p, int i, int j) {
 		garden_matrix.get(i).set(j, p);
 	}
 	
-	/**
+	/**Grows the planted plants in the garden
 	 * 
 	 */
 	public void grow_plants() {
@@ -102,10 +100,10 @@ public class Player implements Serializable {
 		}
 	}
 	
-	/**
+	/**Checks if the plant is growed enough, if yes then draw the next stage on it
 	 * 
-	 * @param window
-	 * @param e
+	 * @param window the actual used window
+	 * @param e the enviroment to draw
 	 */
 	public void check_grow(Stage window, Environment e) {
 		for(int i = 0; i < a; i++) {
@@ -120,11 +118,21 @@ public class Player implements Serializable {
 							int x = i + 14;
 							int y = j + 8;
 							String url = "";
-							
-							switch (this.get_plant(i, j).get_growth_level()){
-								case 2:url = "paradicsom2"; break;
-								case 3:url = "paradicsom3"; break;
-								case 4:url = "paradicsom4"; break;
+
+							if(this.get_plant(i, j).get_name().contains("paradicsom")){
+								switch (this.get_plant(i, j).get_growth_level()){
+									case 2:url = "paradicsom2"; break;
+									case 3:url = "paradicsom3"; break;
+									case 4:url = "paradicsom4"; break;
+								}
+							}
+
+							if(this.get_plant(i, j).get_name().contains("kukorica")){
+								switch (this.get_plant(i, j).get_growth_level()){
+									case 2:url = "kukorica2"; break;
+									case 3:url = "kukorica3"; break;
+									case 4:url = "kukorica4"; break;
+								}
 							}
 							e.draw_plant(window, y, x, url);
 						}
@@ -134,7 +142,7 @@ public class Player implements Serializable {
 		}
 	}
 	
-	/**
+	/**Serialize the player class
 	 * 
 	 */
 	public void save() {
@@ -149,9 +157,32 @@ public class Player implements Serializable {
 			ioe.printStackTrace();
 		}
 	}
+
+	/*Checks if the plants are growed since the last save
+	*
+	 */
+	public void grow_since(){
+		File file = new File("farm_save");
+
+		if(file.lastModified() < System.currentTimeMillis()){
+			long elapsed_time = System.currentTimeMillis() - file.lastModified();
+			elapsed_time = elapsed_time/10000;
+			for(int i = 0; i < a; i++) {
+				for (int j = 0; j < b; j++) {
+					if (garden_matrix.get(i).get(j) != null) {
+						for(int x = 0; x < elapsed_time; x++){
+							if(garden_matrix.get(i).get(j).get_growth_level() < 4){
+								garden_matrix.get(i).get(j).incr_growthlevel();
+							}
+						}
+					}
+				}
+			}
+		}
+	}
 	
 
-	/**
+	/**Write out the player class ArrayList for test purposes
 	* 
 	*/
 	public void write_array() {
@@ -163,51 +194,5 @@ public class Player implements Serializable {
 			System.out.println();
 		}
 		System.out.println();
-	}
-	
-	/**
-	 * 
-	 */
-	@Override
-	public int hashCode() {
-		final int prime = 31;
-		int result = 1;
-		result = prime * result + a;
-		result = prime * result + b;
-		result = prime * result + diff;
-		result = prime * result + ((garden_matrix == null) ? 0 : garden_matrix.hashCode());
-		result = prime * result + ((name == null) ? 0 : name.hashCode());
-		return result;
-	}
-
-	/**
-	 * 
-	 */
-	@Override
-	public boolean equals(Object obj) {
-		if (this == obj)
-			return true;
-		if (obj == null)
-			return false;
-		if (getClass() != obj.getClass())
-			return false;
-		Player other = (Player) obj;
-		if (a != other.a)
-			return false;
-		if (b != other.b)
-			return false;
-		if (diff != other.diff)
-			return false;
-		if (garden_matrix == null) {
-			if (other.garden_matrix != null)
-				return false;
-		} else if (!garden_matrix.equals(other.garden_matrix))
-			return false;
-		if (name == null) {
-			if (other.name != null)
-				return false;
-		} else if (!name.equals(other.name))
-			return false;
-		return true;
 	}
 }

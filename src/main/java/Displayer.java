@@ -117,7 +117,7 @@ public class Displayer {
             ObjectInputStream ois = new ObjectInputStream(fis);
  
             player = (Player) ois.readObject();
- 
+
             ois.close();
             fis.close();
         } 
@@ -132,6 +132,8 @@ public class Displayer {
             c.printStackTrace();
             return;
         }
+
+		player.grow_since();
 		
 		int x = 0;
 		int y = 0;

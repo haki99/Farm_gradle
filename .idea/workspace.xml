@@ -2,35 +2,87 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a4090a3-89ec-4b9b-9142-b524a78cf779" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Farm_gradle.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/EnvironmentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spec/Farm_Specifikacio.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spec/Farm_Specifikacio.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Pics/Environment/Garden/Plants/kukorica.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Pics/Environment/Garden/Plants/kukorica1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Pics/Environment/Garden/Plants/kukorica2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Pics/Environment/Garden/Plants/kukorica3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Pics/Environment/Garden/Plants/kukorica4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Pics/Environment/Original/temp/kukorica.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Pics/Environment/Original/temp/kukorica1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Pics/Environment/Original/temp/kukorica2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Pics/Environment/Original/temp/kukorica3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Pics/Environment/Original/temp/kukorica4.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/DisplayerTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/DisplayerTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/PlantTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/PlantTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/PlayerTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/PlayerTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-DisplayerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-DisplayerTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-PlantTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-PlantTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-PlayerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-PlayerTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ConfirmBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ConfirmBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/ConfirmBox.html" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/ConfirmBox.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/Controller.html" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/Controller.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/Displayer.html" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/Displayer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/DisplayerTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/DisplayerTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/Environment.html" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/Environment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/EnvironmentTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/EnvironmentTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/Plant.html" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/Plant.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/PlantTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/PlantTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/Player.html" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/Player.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/PlayerTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/PlayerTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/allclasses-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/allclasses-noframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/index-files/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/index-files/index-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/index-files/index-10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/index-files/index-11.html" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/index-files/index-11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/index-files/index-12.html" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/index-files/index-12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/index-files/index-13.html" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/index-files/index-13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/index-files/index-14.html" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/index-files/index-14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/index-files/index-15.html" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/index-files/index-15.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/index-files/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/index-files/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/index-files/index-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/index-files/index-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/index-files/index-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/index-files/index-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/index-files/index-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/index-files/index-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/index-files/index-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/index-files/index-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/index-files/index-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/index-files/index-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/serialized-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/serialized-form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Displayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Displayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Environment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Environment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/DisplayerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/DisplayerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/EnvironmentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/EnvironmentTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/PlantTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/PlantTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/PlayerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/PlayerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/Pics/Environment/Original/temp/soil_bottom_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/Pics/Environment/Original/temp/soil_bottom_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/Pics/Environment/Original/temp/soil_top_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/Pics/Environment/Original/temp/soil_top_right.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DisplayerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DisplayerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/PlantTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PlantTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/PlayerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PlayerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Displayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Displayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Environment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Environment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Pics/Environment/Original/temp/soil_bottom_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Pics/Environment/Original/temp/soil_bottom_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Pics/Environment/Original/temp/soil_top_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Pics/Environment/Original/temp/soil_top_right.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,13 +139,16 @@
     </option>
   </component>
   <component name="ProjectId" id="1ULXRFMUuszTXoN3U206xonesvj" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -111,7 +166,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -298,12 +353,17 @@
       <workItem from="1575164094406" duration="22000" />
       <workItem from="1575164130156" duration="589000" />
       <workItem from="1575164737682" duration="127000" />
-      <workItem from="1575164896298" duration="2189000" />
+      <workItem from="1575164896298" duration="2291000" />
+      <workItem from="1575167203502" duration="698000" />
+      <workItem from="1575204018494" duration="2956000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="647" y="346" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1575164114763">
@@ -315,41 +375,45 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="363" y="91" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1575136955552" />
-    <state x="550" y="232" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1575166894979">
+    <state x="550" y="232" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1575205670465">
       <screen x="80" y="0" width="1840" height="1080" />
     </state>
     <state x="381" y="187" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1575144240337" />
-    <state x="550" y="232" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/80.0.1840.1080/-1280.0.1280.984@80.0.1840.1080" timestamp="1575166894979" />
+    <state x="550" y="232" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/80.0.1840.1080/-1280.0.1280.984@80.0.1840.1080" timestamp="1575205670465" />
     <state x="732" y="175" key="FileChooserDialogImpl" timestamp="1575166893119">
       <screen x="80" y="0" width="1840" height="1080" />
     </state>
     <state x="484" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1575143015299" />
     <state x="732" y="175" key="FileChooserDialogImpl/80.0.1840.1080/-1280.0.1280.984@80.0.1840.1080" timestamp="1575166893119" />
-    <state width="1455" height="272" key="GridCell.Tab.0.bottom" timestamp="1575166895023">
+    <state width="1455" height="272" key="GridCell.Tab.0.bottom" timestamp="1575207015356">
       <screen x="80" y="0" width="1840" height="1080" />
     </state>
     <state width="576" height="158" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1575154404932" />
-    <state width="1455" height="272" key="GridCell.Tab.0.bottom/80.0.1840.1080/-1280.0.1280.984@80.0.1840.1080" timestamp="1575166895023" />
-    <state width="1455" height="272" key="GridCell.Tab.0.center" timestamp="1575166895023">
+    <state width="1455" height="272" key="GridCell.Tab.0.bottom/80.0.1840.1080/-1280.0.1280.984@80.0.1840.1080" timestamp="1575207015356" />
+    <state width="1455" height="272" key="GridCell.Tab.0.center" timestamp="1575207015356">
       <screen x="80" y="0" width="1840" height="1080" />
     </state>
     <state width="576" height="158" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1575154404932" />
-    <state width="1455" height="272" key="GridCell.Tab.0.center/80.0.1840.1080/-1280.0.1280.984@80.0.1840.1080" timestamp="1575166895023" />
-    <state width="1455" height="272" key="GridCell.Tab.0.left" timestamp="1575166895023">
+    <state width="1455" height="272" key="GridCell.Tab.0.center/80.0.1840.1080/-1280.0.1280.984@80.0.1840.1080" timestamp="1575207015356" />
+    <state width="1455" height="272" key="GridCell.Tab.0.left" timestamp="1575207015356">
       <screen x="80" y="0" width="1840" height="1080" />
     </state>
     <state width="576" height="158" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1575154404932" />
-    <state width="1455" height="272" key="GridCell.Tab.0.left/80.0.1840.1080/-1280.0.1280.984@80.0.1840.1080" timestamp="1575166895023" />
-    <state width="1455" height="272" key="GridCell.Tab.0.right" timestamp="1575166895023">
+    <state width="1455" height="272" key="GridCell.Tab.0.left/80.0.1840.1080/-1280.0.1280.984@80.0.1840.1080" timestamp="1575207015356" />
+    <state width="1455" height="272" key="GridCell.Tab.0.right" timestamp="1575207015356">
       <screen x="80" y="0" width="1840" height="1080" />
     </state>
     <state width="576" height="158" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1575154404932" />
-    <state width="1455" height="272" key="GridCell.Tab.0.right/80.0.1840.1080/-1280.0.1280.984@80.0.1840.1080" timestamp="1575166895023" />
-    <state x="267" y="219" key="SettingsEditor" timestamp="1575164710929">
+    <state width="1455" height="272" key="GridCell.Tab.0.right/80.0.1840.1080/-1280.0.1280.984@80.0.1840.1080" timestamp="1575207015356" />
+    <state x="592" y="198" key="PlantUMLSettings" timestamp="1575167546921">
+      <screen x="80" y="0" width="1840" height="1080" />
+    </state>
+    <state x="592" y="198" key="PlantUMLSettings/80.0.1840.1080/-1280.0.1280.984@80.0.1840.1080" timestamp="1575167546921" />
+    <state x="267" y="219" key="SettingsEditor" timestamp="1575167407349">
       <screen x="80" y="0" width="1840" height="1080" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1575150974431" />
-    <state x="267" y="219" key="SettingsEditor/80.0.1840.1080/-1280.0.1280.984@80.0.1840.1080" timestamp="1575164710929" />
+    <state x="267" y="219" key="SettingsEditor/80.0.1840.1080/-1280.0.1280.984@80.0.1840.1080" timestamp="1575167407349" />
     <state x="597" y="277" key="com.intellij.ide.util.TipDialog" timestamp="1575163792166">
       <screen x="80" y="0" width="1840" height="1080" />
     </state>
