@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="EnvironmentTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-01T13:29:58" hostname="HOFI-PC" time="1.802">
+<testsuite name="EnvironmentTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-03T14:43:28" hostname="HOFI-PC" time="1.799">
   <properties/>
-  <testcase name="mainmenutest()" classname="EnvironmentTest" time="1.802"/>
+  <testcase name="mainmenutest()" classname="EnvironmentTest" time="1.799"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

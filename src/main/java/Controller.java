@@ -81,7 +81,7 @@ public class Controller {
 
 							environment.draw_plant(window, a, b, type);
 
-							Plant p = new Plant("kukorica", 5, 4);
+							Plant p = new Plant("kukorica", 20, 4);
 
 							player.add_plant(p, z, u);
 						});
